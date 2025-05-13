@@ -296,7 +296,8 @@ footer {
 .cv-download {
   display: inline-block;
   margin-top: 20px;
-  background-color: var(--accent);
+  background-color: rgb(224, 147, 4);
+
   color: white;
   padding: 12px 24px;
   border-radius: 8px;
@@ -329,7 +330,7 @@ footer {
 }
 
 .cv-download:hover {
-  background-color: #ff0000;
+  background-color: #ff0808;
   transform: translateY(-3px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
@@ -346,7 +347,7 @@ footer {
 .cv-download-Word {
   display: inline-block;
   margin-top: 20px;
-  background-color: var(--accent);
+  background-color: rgb(224, 147, 4);
   color: white;
   padding: 12px 24px;
   border-radius: 8px;
@@ -379,7 +380,7 @@ footer {
 }
 
 .cv-download-Word:hover {
-  background-color: #0058c1;
+  background-color: #0359c2;
   transform: translateY(-3px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
